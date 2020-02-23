@@ -4,9 +4,9 @@ Projects
 Name | Project | Notes | Pay | Arbitrator  
 ------ | ------------- | ------------- | ------------- | -------------
 name to be filled in later | _Fill in quant research project_| | | | Yes there will be an arbitrator. 
-Dennis | https://github.com/Atlantis-City/Health | I need help investigating therapies | volunteer | NA
-Dennis | Buy, read, understand and crunch numbers in 2 books*. Compare these figures with cancer effectiveness of mainstream therapies|  | $50 | NA
-Dennis | Go on a carnivorous diet ( all read meat) for 2 months| This is a bet. Meaning you may get $200 or you may have to part with $200. Ask me about details if interested. | $200 | Yes there will be an arbitrator. 
+[Dennis](/People.md) | https://github.com/Atlantis-City/Health | I need help investigating therapies | volunteer | NA
+[Dennis](/People.md) | Buy, read, understand and crunch numbers in 2 books*. Compare these figures with cancer effectiveness of mainstream therapies|  | $50 | NA
+[Dennis](/People.md) | Go on a carnivorous diet ( all read meat) for 2 months| This is a bet. Meaning you may get $200 or you may have to part with $200. Ask me about details if interested. | $200 | Yes there will be an arbitrator. 
   
   
   
