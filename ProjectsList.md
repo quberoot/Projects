@@ -4,7 +4,7 @@ Projects
 Name | Project | Notes | Compensation | Arbitrator  
 ------ | ------------- | ------------- | ------------- | -------------
 name to be filled in later | _Fill in quant research project_| | | | Yes there will be an arbitrator. 
-[Dennis](/People.md) | https://github.com/Atlantis-City/Health | I need help investigating therapies | volunteer | NA
+[Dennis](/People.md) | [https://github.com/Atlantis-City/Health](https://github.com/quberoot/Health) | I need help investigating therapies | volunteer | NA
 [Dennis](/People.md) | Buy, read, understand and crunch numbers in 2 books*. Compare these figures with cancer effectiveness of mainstream therapies|  | $100 | Yes there will be an arbitrator.
 [Dennis](/People.md) | Go on a carnivorous diet ( all read meat) for 2 months| This is a bet. Meaning you may get $200 or you may have to part with $200. Ask me about details if interested. | $200 | Yes there will be an arbitrator. 
 [Dennis](/People.md) | Make recruiters pay for contacting potential cantidates for a postion. It could be just a few cents or more (or even zero cents if the candidate decides). Most recruiters anyway pay for job boards. Further let recruiters/employers pay for the time it takes to interview candidates. In my experience while job hunting I have found that recruiters and employers are just not serious enough about a candidates time. | Proportionate to the effort put in | There may be an arbitrator. 
