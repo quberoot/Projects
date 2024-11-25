@@ -8,7 +8,8 @@ Name | Project | Notes | Compensation | Arbitrator
 [Dennis](/People.md) | Go on a carnivorous diet ( all read meat) for 2 months| This is a bet. Meaning you may get $200 or you may have to part with $200. Ask me about details if interested. | $200 | Yes there will be an arbitrator. 
 [Dennis](/People.md) | Make recruiters pay for contacting potential cantidates for a postion. It could be just a few cents or more (or even zero cents if the candidate decides). Most recruiters anyway pay for job boards. Further let recruiters/employers pay for the time it takes to interview candidates. In my experience while job hunting I have found that recruiters and employers are just not serious enough about a candidates time. | Proportionate to the effort put in | There may be an arbitrator. 
 [Dennis](/People.md) | Investigate the best items to be bought for a grid collapse scenario| Solar panels, inverters, food, fuel, self-defense, etc. | volunteer | NA
-[Dennis](/People.md) | Bedini monopole decices. Devices that can generate infinite power | volunteer | NA
+[Dennis](/People.md) | Bedini monopole devices. Devices that can generate infinite power | volunteer | NA
+[Dennis](/People.md) | Brown's gas for fuel efficiency, welding and health [link to video](https://www.youtube.com/watch?v=Ie6wMouy3hI&t=137s)| volunteer | NA
   
   
   
